@@ -6,6 +6,7 @@ public class string_method {
         String na = name.substring(0, 3);
         String nam = name.replace('d', 'f');
         System.out.println(nam.toUpperCase());
+        System.out.println(na);
         System.out.println(name.charAt(3));
         System.out.println(name.indexOf('e'));
         System.out.println(name.toUpperCase() + " " + name1.toUpperCase() + " this name length is  " + a);
